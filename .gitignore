@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.VENV/
+.Venv/
+env/
+
+# Ignore environment files
+.env
+
+# Ignore dataset files if large (optional)
+*.csv
+*.pkl
+*.json
+
+# Ignore IDE settings (optional)
+.vscode/
+.idea/
