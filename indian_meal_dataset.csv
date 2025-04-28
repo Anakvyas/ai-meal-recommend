@@ -1,0 +1,61 @@
+meal_time,diet_type,goal,meal_description,total_calories
+breakfast,veg,weight_loss,Moong dal chilla with mint chutney,280
+breakfast,veg,muscle_gain,Paneer paratha with curd,520
+breakfast,veg,endurance,Poha with peanuts and sprouts,380
+breakfast,veg,weight_loss,Upma with vegetables,320
+breakfast,veg,muscle_gain,Besan cheela with avocado spread,450
+breakfast,veg,endurance,Dalia (broken wheat) porridge with jaggery,350
+breakfast,veg,weight_loss,Sabudana khichdi with yogurt,290
+breakfast,veg,muscle_gain,Soya chunks upma,430
+breakfast,veg,endurance,Ragi malt with almonds,370
+breakfast,veg,weight_loss,Idiyappam with coconut chutney,300
+lunch,veg,weight_loss,Lauki chana dal with jowar roti,390
+lunch,veg,muscle_gain,Soybean curry with quinoa,580
+lunch,veg,endurance,Methi thepla with yogurt,450
+lunch,veg,weight_loss,Palak tofu with millet roti,410
+lunch,veg,muscle_gain,Chana masala with brown rice,550
+lunch,veg,endurance,Rajma chawal (kidney beans & rice),500
+lunch,veg,weight_loss,Tinda masala with bajra roti,370
+lunch,veg,muscle_gain,Dal tadka with jeera rice,540
+lunch,veg,endurance,Sweet potato curry with chapati,490
+lunch,veg,weight_loss,Karela (bitter gourd) sabzi with roti,350
+dinner,veg,weight_loss,Vegetable stew with appam,400
+dinner,veg,muscle_gain,Palak paneer with multigrain roti,570
+dinner,veg,endurance,Vegetable khichdi with curd,460
+dinner,veg,weight_loss,Mushroom stir-fry with quinoa,380
+dinner,veg,muscle_gain,Malai kofta with jeera rice,600
+dinner,veg,endurance,Moong dal khichdi with ghee,440
+dinner,veg,weight_loss,Ghiya (bottle gourd) dalia,360
+dinner,veg,muscle_gain,Soya biryani with raita,590
+dinner,veg,endurance,Aloo gobhi with missi roti,470
+dinner,veg,weight_loss,Beetroot salad with flaxseeds,320
+breakfast,non_veg,weight_loss,Egg white bhurji with multigrain toast,310
+breakfast,non_veg,muscle_gain,Keema paratha with yogurt,530
+breakfast,non_veg,endurance,Chicken oats porridge with nuts,420
+breakfast,non_veg,weight_loss,Boiled eggs with sprouts salad,290
+breakfast,non_veg,muscle_gain,Chicken sandwich with avocado,480
+breakfast,non_veg,endurance,Fish toast with green chutney,400
+breakfast,non_veg,weight_loss,Turkey omelette with spinach,330
+breakfast,non_veg,muscle_gain,Mutton keema with paratha,560
+breakfast,non_veg,endurance,Prawn poha with coconut,410
+breakfast,non_veg,weight_loss,Scrambled eggs with sautéed veggies,300
+lunch,non_veg,weight_loss,Grilled fish with quinoa salad,450
+lunch,non_veg,muscle_gain,Butter chicken with brown rice,650
+lunch,non_veg,endurance,Egg curry with bajra roti,520
+lunch,non_veg,weight_loss,Chicken stew with millets,430
+lunch,non_veg,muscle_gain,Mutton curry with jeera rice,700
+lunch,non_veg,endurance,Chicken biryani with cucumber raita,620
+lunch,non_veg,weight_loss,Boiled chicken with dal,400
+lunch,non_veg,muscle_gain,Fish curry with red rice,580
+lunch,non_veg,endurance,Egg fried rice with veggies,510
+lunch,non_veg,weight_loss,Chicken salad with flaxseeds,380
+dinner,non_veg,weight_loss,Steamed fish with sautéed veggies,400
+dinner,non_veg,muscle_gain,Lamb curry with mashed sweet potato,710
+dinner,non_veg,endurance,Chicken biryani with raita,620
+dinner,non_veg,weight_loss,Grilled chicken with stir-fried greens,390
+dinner,non_veg,muscle_gain,Egg masala with chapati,550
+dinner,non_veg,endurance,Prawn masala with quinoa,540
+dinner,non_veg,weight_loss,Chicken clear soup with croutons,350
+dinner,non_veg,muscle_gain,Mutton kebabs with naan,680
+dinner,non_veg,endurance,Fish tikka with mint chutney,500
+dinner,non_veg,weight_loss,Boiled eggs with dal,370
